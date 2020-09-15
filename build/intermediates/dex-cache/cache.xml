@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Study\Angry Bot\Papoicheta\build\intermediates\exploded-aar\com.google.android.gms\play-services\5.0.89\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d71573c9c5ea98a8db47ad6ff993a63d492b3bfa">
+        <dex dex="E:\Study\Angry Bot\Papoicheta\build\intermediates\pre-dexed\debug\classes-7da448365a5b9ce1598527331cc383d0b80889b9.jar" />
+    </item>
+    <item
+        jar="E:\Study\Angry Bot\Papoicheta\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="E:\Study\Angry Bot\Papoicheta\build\intermediates\pre-dexed\debug\classes-87498807c20a681775323e4fac65ca1a5957cec3.jar" />
+    </item>
+    <item
+        jar="C:\Users\vbonev\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="E:\Study\Angry Bot\Papoicheta\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-c3c36e0eb138931a13e930f94b44f89ab9da2e85.jar" />
+    </item>
+    <item
+        jar="E:\Study\Angry Bot\Papoicheta\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="E:\Study\Angry Bot\Papoicheta\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-ba3c72326682fc00165e95ee03b3005ba6b35544.jar" />
+    </item>
+
+</items>
