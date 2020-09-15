@@ -871,7 +871,6 @@ public class GameScreen extends Screen {
                         projectiles.remove(p);
                     }
                 }
-//                Log.e("shooter", "shoot " +projectiles.size()+"      "+ i);
             }
         }
 
@@ -1097,7 +1096,6 @@ public class GameScreen extends Screen {
                 if (event.x > 200 && event.x < 600 && event.y > 260
                         && event.y < 340) {
                     for (int p = 0; p < LoadingScreen.adTime.length; p++) {
-                        Log.e("kopele", LoadingScreen.adTime[p] + " nomer " + p + " " + "    " + settings.getCurrentLevel());
                         if (settings.getCurrentLevel() == LoadingScreen.adTime[p]) {
                             AndroidGame.displayInterstitial();
                             break;

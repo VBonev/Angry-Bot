@@ -23,9 +23,7 @@ public class LoadingScreen extends Screen {
         g.drawImage(Assets.splash, 0, 0);
         for(int i=0;i<adTime.length;i++){
             adTime[i]=randInt((i+1==1?1:i*4),((i+1)*4));
-            Log.e("kopele", adTime[i] + " " + i + " nomer");
         }
-        Log.e("kopele", "-------------------------");
     }
     public static int randInt(int min, int max) {
         min=min==1?2:min+1;
